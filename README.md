@@ -5,6 +5,10 @@
 
 ## [0680 Environmental Management Paper 2](EM-0680/0680-EM-2.md)
 
+## [0653 Combined Science Paper 4](CS-0653/0653-CS-4.md)
+
+## [0653 Combined Science Paper 6](CS-0653/0653-CS-6.md)
+
 
 
 
