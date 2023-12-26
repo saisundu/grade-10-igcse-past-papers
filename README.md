@@ -17,6 +17,10 @@
 
 ## [0653 Maths Paper 4](M-0580/0580-M-4.md)
 
+## [0500 English Paper 1](EN-0500/0500-EN-1.md)
+
+## [0500 English Paper 2](EN-0500/0500-EN-2.md)
+
 
 
 
