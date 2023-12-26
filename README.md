@@ -43,3 +43,28 @@ Grade 10 IGCSE Past Papers
 | 2020 | October/November  | 1     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w20_qp_11.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w20_ms_11.pdf) |
 | 2020 | October/November  | 2     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w20_qp_12.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w20_ms_12.pdf) |
 | 2020 | October/November  | 3     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w20_qp_13.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w20_ms_13.pdf) |
+
+## 2019 Sessions
+
+| Year | Session           | Paper | Downloaded | Studied | Practice Test 1 | Practice Test 2 | Practice Test 3 | Question Paper Link | Mark Scheme Link |
+|------|-------------------|-------|------------|---------|-----------------|-----------------|-----------------|---------------------|------------------|
+| 2019 | Feb/March         | 2     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_m19_qp_12.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_m19_ms_12.pdf) |
+| 2019 | May/June          | 1     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s19_qp_11.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s19_ms_11.pdf) |
+| 2019 | May/June          | 2     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s19_qp_12.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s19_ms_12.pdf) |
+| 2019 | May/June          | 3     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s19_qp_13.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s19_ms_13.pdf) |
+| 2019 | October/November  | 1     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w19_qp_11.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w19_ms_11.pdf) |
+| 2019 | October/November  | 2     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w19_qp_12.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w19_ms_12.pdf) |
+| 2019 | October/November  | 3     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w19_qp_13.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w19_ms_13.pdf) |
+
+## 2018 Sessions
+
+| Year | Session           | Paper | Downloaded | Studied | Practice Test 1 | Practice Test 2 | Practice Test 3 | Question Paper Link | Mark Scheme Link |
+|------|-------------------|-------|------------|---------|-----------------|-----------------|-----------------|---------------------|------------------|
+| 2018 | Feb/March         | 2     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_m18_qp_12.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_m18_ms_12.pdf) |
+| 2018 | May/June          | 1     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s18_qp_11.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s18_ms_11.pdf) |
+| 2018 | May/June          | 2     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s18_qp_12.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s18_ms_12.pdf) |
+| 2018 | May/June          | 3     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s18_qp_13.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_s18_ms_13.pdf) |
+| 2018 | October/November  | 1     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w18_qp_11.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w18_ms_11.pdf) |
+| 2018 | October/November  | 2     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w18_qp_12.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w18_ms_12.pdf) |
+| 2018 | October/November  | 3     | [ ]        | [ ]     | [ ]             | [ ]             | [ ]             | [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w18_qp_13.pdf) | [Mark Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0680_w18_ms_13.pdf) |
+
