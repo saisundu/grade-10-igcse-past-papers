@@ -9,6 +9,10 @@
 
 ## [0653 Combined Science Paper 6](CS-0653/0653-CS-6.md)
 
+## [0653 Maths Paper 2](M-0580/0580-M-2.md)
+
+## [0653 Maths Paper 4](M-0580/0580-M-4.md)
+
 
 
 
