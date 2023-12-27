@@ -1,5 +1,5 @@
 
-# Expereiment Design Question
+# Expereiment Design Questions
 
 ## Feb March 2023 Paper 6 - 2
 
