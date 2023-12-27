@@ -1,3 +1,8 @@
+
+# Expereiment Design Question
+
+## Feb March 2023 Paper 6 - 2
+
 <img width="783" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/f3eee03b-7f66-4aab-a71b-34da111acbcd">
 
 
