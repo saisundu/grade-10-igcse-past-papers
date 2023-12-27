@@ -201,6 +201,48 @@ To plan an investigation to find the relationship between the mass of salt added
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_m21_ms_62.pdf)
 
+<img width="1201" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/d449d946-00ad-43d2-a8fe-2b9427f6337d">
+
+<img width="1201" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/765b4ed5-dc3c-40ae-a091-24ebf524966c">
+
+## ChatGPT Response
+
+To carry out an investigation according to the details provided, which concern the effect of different masses of calcium hydroxide on the pH of an acidic solution, follow these guidelines:
+
+1. **Apparatus:**
+   - Balance to measure the mass of calcium hydroxide.
+   - Measuring cylinder or burette or volumetric pipette to measure the volume of nitric acid.
+   - Beaker or conical flask to mix calcium hydroxide and nitric acid.
+   - Stirring rod to ensure complete reaction.
+   - Universal Indicator and pH chart to determine the pH of the solution.
+
+2. **Brief Description and Safety Precautions:**
+   - Measure a known volume of nitric acid into the beaker.
+   - Add the Universal Indicator to the acid.
+   - Weigh out the first mass of calcium hydroxide and add it to the acid.
+   - Stir the mixture until the calcium hydroxide is completely reacted.
+   - Record the pH as indicated by the color change of the Universal Indicator using the pH chart.
+   - Rinse the beaker and repeat the process with increasing masses of calcium hydroxide.
+   - Wear safety goggles and gloves as nitric acid and calcium hydroxide are corrosive.
+
+3. **Measurements:**
+   - Mass of calcium hydroxide added each time.
+   - Volume of nitric acid used (kept constant).
+   - Initial pH of the nitric acid.
+   - Final pH after the addition of calcium hydroxide.
+
+4. **Variables:**
+   - Keep the volume and concentration of nitric acid constant.
+   - Change the mass of calcium hydroxide for each experiment.
+
+5. **Processing and Conclusion:**
+   - Take averages if experiments are repeated for accuracy.
+   - Plot a graph of mass of calcium hydroxide against final pH values.
+   - Analyze the graph to determine if there is a correlation between the mass of calcium hydroxide and the increase in pH, which would indicate the neutralizing effect of the base on the acid. 
+
+This investigation will allow you to understand the neutralization process and how the amount of a base (calcium hydroxide) affects the pH of a solution, confirming the hypothesis that increasing the mass of calcium hydroxide will increase the pH of the acid solution.
+
+
 
 
 ## May June Paper 6 - 1
@@ -210,12 +252,118 @@ To plan an investigation to find the relationship between the mass of salt added
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s21_ms_62.pdf)
 
+<img width="892" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/ed7e5e35-2700-4586-b674-a92da98a0286">
+
+<img width="1520" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/43c0041e-3dd2-4197-ba0d-f41fada4ae6c">
+
+## ChatGPT Response
+
+To plan an investigation to determine how the reaction time of sodium carbonate with dilute hydrochloric acid depends on the temperature of the hydrochloric acid, follow these steps:
+
+1. **Apparatus Needed:**
+   - Sodium carbonate powder.
+   - Dilute hydrochloric acid.
+   - Beakers or conical flasks for the reaction.
+   - Thermometer to measure the temperature of the acid.
+   - Bunsen burner, hot plate, or water bath to adjust the temperature of the acid.
+   - Stopwatch to measure reaction time.
+   - Ice bath to cool some samples of acid (if testing lower temperatures).
+   - Balance to measure the mass of sodium carbonate.
+   - Safety goggles and gloves for protection.
+
+2. **Method:**
+   - Measure a fixed volume of hydrochloric acid and place it in a beaker or flask.
+   - Adjust the temperature of the acid to the desired starting temperature using a Bunsen burner, hot plate, or water bath.
+   - Once the acid reaches the target temperature, add a fixed mass of sodium carbonate powder to the acid.
+   - Start the stopwatch immediately upon addition of the sodium carbonate.
+   - Stop the timing when the fizzing (release of carbon dioxide) stops, indicating the reaction is complete.
+   - Record the reaction time.
+   - Repeat the procedure for different temperatures of hydrochloric acid (e.g., 10°C, 20°C, 30°C, etc.).
+   - Ensure to cool down or heat up the hydrochloric acid to the desired temperature before each new trial.
+
+3. **Safety Precautions:**
+   - Wear safety goggles and gloves when handling chemicals to protect from splashes.
+   - Handle the Bunsen burner or hot plate with care to avoid burns.
+
+4. **Variables to Keep Constant:**
+   - The concentration of hydrochloric acid.
+   - The volume of hydrochloric acid used in each reaction.
+   - The mass of sodium carbonate added to the acid.
+
+5. **Measurements:**
+   - Temperature of the hydrochloric acid before the reaction.
+   - Reaction time from the addition of sodium carbonate to the end of fizzing.
+
+6. **Processing Results:**
+   - Plot a graph of the reaction time against the temperature of the hydrochloric acid.
+   - Look for trends such as reaction time decreasing with an increase in temperature, indicating the effect of temperature on reaction rate.
+
+7. **Conclusion:**
+   - Analyze the graph to determine the relationship between temperature and reaction time.
+   - Use the results to discuss the effect of temperature on the speed of the reaction, referring to collision theory and the activation energy concept.
+
+You may include a labeled diagram to illustrate the experimental setup and a table to record the temperature of the acid and the corresponding reaction times for clarity and to facilitate data analysis.
+
+
+
 ## May June Paper 6 - 2
 
 [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s21_qp_62.pdf)
 
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s21_ms_62.pdf)
+
+<img width="948" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/b006ae48-e639-4d80-afda-01943bcf4c4d">
+
+<img width="1514" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/478f975d-7dc2-49d0-b23f-0e9d693321c5">
+
+## ChatGPT Response
+To plan an investigation to find out how the reaction time of sodium hydrogen carbonate with dilute nitric acid depends on the concentration of the acid, consider the following steps:
+
+1. **Apparatus Needed:**
+   - Sodium hydrogen carbonate powder.
+   - Dilute nitric acid of varying concentrations.
+   - Distilled water to prepare different concentrations of nitric acid.
+   - Conical flask or beaker for the reaction.
+   - Balance to weigh the sodium hydrogen carbonate.
+   - Graduated cylinders or pipettes to measure volumes of acid and water.
+   - Stopwatch to measure reaction time.
+   - Safety goggles and gloves for protection.
+
+2. **Method:**
+   - Prepare a series of nitric acid solutions of different concentrations using distilled water to dilute. For example, prepare 0.1M, 0.2M, 0.5M, and 1M solutions of nitric acid.
+   - Weigh out a fixed amount of sodium hydrogen carbonate for each trial.
+   - Add the weighed sodium hydrogen carbonate to a fixed volume of nitric acid in the conical flask.
+   - Start the stopwatch as soon as the sodium hydrogen carbonate is added.
+   - Stop the stopwatch when the fizzing stops, indicating the reaction has completed.
+   - Record the reaction time for each concentration.
+   - Repeat each measurement at least three times for accuracy.
+
+3. **Safety Precautions:**
+   - Wear safety goggles and gloves to protect from any splashes as nitric acid is corrosive.
+   - Perform the experiment in a well-ventilated area or under a fume hood to avoid inhaling any gases.
+
+4. **Variables to Measure:**
+   - The concentration of nitric acid used in each reaction.
+   - The reaction time for each concentration.
+
+5. **Variables to Keep Constant:**
+   - The mass of sodium hydrogen carbonate used in each reaction.
+   - The volume of nitric acid used in each reaction.
+   - The temperature at which the reaction is performed.
+
+6. **Processing Results:**
+   - Calculate the average reaction time for each concentration from the repeated trials.
+   - Plot a graph with the concentration of nitric acid on the x-axis and the average reaction time on the y-axis.
+   - Analyze the graph to determine the relationship between acid concentration and reaction time.
+
+7. **Conclusion:**
+   - Discuss the trend observed in the graph and relate it to the chemical principles of reaction rates and concentration dependency, such as the collision theory.
+   - Conclude whether the reaction time increases or decreases with concentration and to what extent.
+
+You may include a labeled diagram to illustrate the experimental setup and a table with columns for acid concentration, individual reaction times, average reaction time, and any observations noted during the reaction.
+
+
 
 
 ## May June Paper 6 - 3
@@ -225,12 +373,121 @@ To plan an investigation to find the relationship between the mass of salt added
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s21_ms_63.pdf)
 
+<img width="991" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/38c780f2-4390-4b37-9005-7d265313e381">
+
+<img width="1515" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/17b7ed49-a675-43d1-ba16-de6d7bdd92db">
+
+## ChatGPT Response
+
+To plan an investigation into how the temperature decrease of a reaction mixture depends on the mass of sodium hydrogen carbonate added to dilute nitric acid, you can follow these steps:
+
+1. **Apparatus Needed:**
+   - Sodium hydrogen carbonate powder.
+   - Dilute nitric acid.
+   - Insulated container or polystyrene cup to minimize heat loss.
+   - Thermometer to measure the temperature change.
+   - Balance to weigh the sodium hydrogen carbonate.
+   - Graduated cylinder to measure the volume of nitric acid.
+   - Stopwatch to measure the duration of reaction.
+   - Safety goggles and gloves.
+
+2. **Method:**
+   - Measure a fixed volume of dilute nitric acid and pour it into the insulated container.
+   - Weigh out a starting mass of sodium hydrogen carbonate, for example, 1 gram.
+   - Record the initial temperature of the nitric acid.
+   - Add the sodium hydrogen carbonate to the acid and immediately start the stopwatch.
+   - Stir gently and measure the temperature at regular intervals until the temperature no longer changes, indicating the reaction has completed.
+   - Record the lowest temperature reached.
+   - Calculate the temperature change by subtracting the final temperature from the initial temperature.
+   - Clean the container and repeat the experiment with increasing masses of sodium hydrogen carbonate, keeping the volume of nitric acid constant.
+
+3. **Safety Precautions:**
+   - Wear safety goggles and gloves as both sodium hydrogen carbonate and nitric acid can cause irritation.
+   - Handle the thermometer with care to prevent breakage.
+   - Conduct the experiment in a well-ventilated area.
+
+4. **Variables to Measure:**
+   - Mass of sodium hydrogen carbonate added to the reaction.
+   - Initial and final temperature of the reaction mixture.
+
+5. **Variables to Keep Constant:**
+   - The volume of nitric acid used in each trial.
+   - The concentration of the nitric acid.
+   - The ambient temperature, as it can affect the reaction temperature.
+
+6. **Processing Results:**
+   - Plot a graph with the mass of sodium hydrogen carbonate on the x-axis and the temperature decrease on the y-axis.
+   - Look for a trend showing whether the temperature decrease becomes more significant with increasing masses of sodium hydrogen carbonate.
+
+7. **Conclusion:**
+   - Analyze the graph to conclude how the mass of sodium hydrogen carbonate affects the temperature decrease in the reaction mixture.
+   - Discuss the results in terms of the endothermic nature of the reaction, and how the absorption of heat is related to the mass of the reactant.
+
+You may include a labeled diagram of the experimental setup and a table with columns for the mass of sodium hydrogen carbonate, initial temperature, final temperature, and temperature change to organize and facilitate analysis of your data.
+
+
 ## Oct Nov Paper 6 - 1
 
 [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_w21_qp_62.pdf)
 
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_w21_ms_62.pdf)
+
+<img width="1021" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/1203dfcf-794e-4b06-8aa3-bb32b295a74d">
+
+<img width="1526" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/17ec96ba-0a46-41f1-9ee0-553b092ab8fb">
+
+## ChatGPT Response
+To plan an investigation to determine how the material of the clothes affects the rate of evaporation of water from the clothes, follow these steps:
+
+1. **Apparatus Needed:**
+   - Samples of cotton, polyester, and wool fabric, cut into equal sizes.
+   - A sensitive scale to weigh the samples.
+   - Water to wet the fabric samples.
+   - A controlled environment such as a room with constant temperature and humidity.
+   - A timer or stopwatch.
+   - A drying rack or line to hang the samples.
+   - Optional: Hygrometer to measure humidity.
+
+2. **Method:**
+   - Weigh each dry fabric sample and record its mass.
+   - Submerge each fabric sample in water for a consistent period to ensure they are equally saturated.
+   - Remove the samples from the water and gently wring them out to remove excess water, ensuring this is done equally for each sample.
+   - Weigh each wet fabric sample and record its mass to determine the amount of water each has absorbed.
+   - Hang the wet samples in the controlled environment.
+   - Start the timer immediately after hanging them.
+   - Weigh each sample at regular intervals (e.g., every 10 minutes) until no further mass change is detected, indicating the samples are dry.
+   - Record the time taken for each sample to reach its original dry mass.
+
+3. **Safety Precautions:**
+   - Ensure the area is well-ventilated to prevent condensation and humidity buildup.
+   - Handle the wet samples carefully to prevent water spillage that could lead to slipping hazards.
+
+4. **Variables to Measure:**
+   - The initial mass of each dry fabric sample.
+   - The mass of each wet fabric immediately after soaking and wringing.
+   - The mass of each fabric sample at each time interval during drying.
+   - The total time taken for each sample to dry.
+
+5. **Variables to Keep Constant:**
+   - The size and shape of the fabric samples.
+   - The environmental conditions where the samples are dried.
+   - The duration of the initial submersion in water.
+   - The method of wringing out excess water.
+
+6. **Processing Results:**
+   - Calculate the rate of evaporation for each material by dividing the total mass of water evaporated by the time taken to dry.
+   - Create a table to record the mass of each sample at each time interval.
+   - Plot a graph for each fabric type showing the change in mass over time.
+   - Compare the rates of evaporation among the different materials.
+
+7. **Conclusion:**
+   - Analyze the data to determine which material dries the fastest and which dries the slowest.
+   - Discuss the properties of each fabric type that might contribute to the differences in evaporation rate, such as fiber structure, absorbency, and thermal conductivity.
+
+You may include a labeled diagram to visualize the experimental setup and a table with columns for fabric type, initial mass, mass after soaking, mass at each time interval, and total drying time.
+
+
 
 ## Oct Nov Paper 6 - 2
 
@@ -239,6 +496,58 @@ To plan an investigation to find the relationship between the mass of salt added
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_w21_ms_62.pdf)
 
+<img width="550" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/b0148abc-8b3c-4042-96bb-b866736ee7eb">
+
+<img width="1532" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/b63f8968-bb53-4f64-9d9f-c06e95337853">
+
+## ChatGPT Response
+To plan an investigation to check the claims made by the company about the drinks cooler sleeve, follow these steps:
+
+1. **Apparatus Needed:**
+   - The drinks cooler sleeve.
+   - A glass that fits inside the sleeve.
+   - A freezer set to -20°C.
+   - A thermometer to measure the temperature of water.
+   - A stopwatch or timer to track the cooling time.
+   - Access to water at room temperature.
+   - Insulating materials to minimize external temperature influence (optional).
+
+2. **Method:**
+   - Chill the drinks cooler sleeve in the freezer at -20°C for a sufficient time to ensure it reaches the freezer's temperature.
+   - Measure 200 cm³ of room temperature water using a measuring cylinder and pour it into the glass.
+   - Record the initial temperature of the water.
+   - Place the glass inside the chilled drinks cooler sleeve immediately after removing it from the freezer.
+   - Start the stopwatch as soon as the glass is placed in the sleeve.
+   - After 5 minutes, measure the temperature of the water to check if it has reached below 10°C.
+   - Continue to monitor the temperature of the water every 5 minutes for at least 30 minutes to see if it remains below 10°C.
+
+3. **Measurements:**
+   - Initial temperature of the water.
+   - Temperature at the 5-minute mark.
+   - Temperature at 5-minute intervals up to at least 30 minutes.
+
+4. **Variables to Keep Constant:**
+   - The volume of water used in each test (200 cm³).
+   - The initial temperature of the water.
+   - The time the sleeve is kept in the freezer.
+   - The ambient temperature where the experiment is conducted, if possible.
+
+5. **Safety Precautions:**
+   - Handle the glass carefully when it is cold to prevent breakage.
+   - Ensure the freezer is correctly set to the appropriate temperature.
+
+6. **Processing Results:**
+   - Record the temperature data in a table with time points as headers and temperature readings as data points.
+   - Assess if the temperature dropped below 10°C within the first 5 minutes and if it remained below that threshold for 30 minutes.
+
+7. **Conclusion:**
+   - Use the data collected to confirm or refute the company's claims about the drinks cooler sleeve's performance.
+   - Discuss any potential sources of error or environmental factors that could have influenced the results.
+
+You may include a labeled diagram showing the experimental setup with the drinks cooler sleeve, the glass with water, and the thermometer. The table could be organized with columns for the time since the start of the experiment, the expected temperature below 10°C, and the actual temperature measured at each time point.
+
+
+
 
 ## Oct Nov Paper 6 - 3
 
@@ -246,6 +555,53 @@ To plan an investigation to find the relationship between the mass of salt added
 
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_w21_ms_63.pdf)
+
+<img width="676" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/b0efb6a9-6762-410a-bb9d-aa3f1cd05481">
+
+<img width="1510" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/4a65f1bd-ede3-4868-96f4-17b4a974d9eb">
+
+## ChatGPT Response
+
+To investigate which rod out of A (poly(ethene)), B (Perspex), and C (nylon) gains the most charge when rubbed with a wool cloth, you can conduct the following experiment:
+
+1. **Apparatus Needed:**
+   - Rods A, B, and C, made from poly(ethene), Perspex, and nylon, respectively.
+   - Wool cloth.
+   - A4 graph paper.
+   - Scissors to cut the graph paper into small pieces.
+   - Stopwatch to measure the time of rubbing.
+   - A ruler to measure the distance small pieces of paper are attracted.
+   - A balance to ensure equal size and mass of paper pieces.
+
+2. **Method:**
+   - Cut the graph paper into equal-sized small pieces using scissors.
+   - Use the balance to ensure each paper piece has a similar mass for consistency.
+   - Measure and record the initial mass of each rod.
+   - Rub each rod (A, B, and C) with the wool cloth for a fixed amount of time (e.g., 30 seconds) using the same amount of pressure and speed to ensure consistency.
+   - After rubbing, bring the rod near the small pieces of paper and observe the number of paper pieces each rod attracts.
+   - Measure the distance from which the rod can attract the paper pieces as an additional measure of the charge.
+
+3. **Measurements:**
+   - The time spent rubbing each rod.
+   - The number of paper pieces attracted to each rod.
+   - The distance at which paper pieces are attracted to the rod.
+
+4. **Variables to Keep Constant:**
+   - The size and mass of the paper pieces.
+   - The time spent rubbing each rod.
+   - The pressure applied while rubbing the rods.
+   - The environmental conditions (humidity, temperature) during the experiment.
+
+5. **Processing Results:**
+   - Record the number of paper pieces attracted to each rod in a table.
+   - Create a comparative chart or graph to visualize which rod attracts more pieces.
+   - Compare the distance of attraction if applicable.
+
+6. **Conclusion:**
+   - Analyze the data to determine which rod holds the most charge as indicated by the number of paper pieces attracted and the distance of attraction.
+   - Discuss the results in terms of the triboelectric series and the materials' tendencies to gain or lose electrons.
+
+You may include a labeled diagram showing the experimental setup: the rod being rubbed by the wool cloth, the paper pieces on a flat surface, and the rod being brought near the paper pieces. The results table could have columns for the rod material, number of paper pieces attracted, and the distance of attraction.
 
 
 # 2020
@@ -256,6 +612,50 @@ To plan an investigation to find the relationship between the mass of salt added
 
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_m20_ms_62.pdf)
+
+<img width="871" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/18c89113-fab5-4d50-a1b9-c996469c791c">
+
+<img width="1552" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/aa803784-0881-445c-8ec5-6afb3111c8b0">
+
+## ChatGPT Response
+
+To plan an investigation to find out how the distance of mass B from the pivot depends on its mass for the beam to be balanced, given the apparatus listed, follow these steps:
+
+1. **Method Description:**
+   - Set up the metre rule horizontally on the pivot so that it can rotate freely.
+   - Place the 50g mass A at a fixed distance from the pivot on one side of the beam.
+   - On the opposite side, place a 10g mass B close to the pivot and move it along the beam until the beam is balanced.
+   - Record the position of mass B when the beam is balanced.
+   - Increase the mass of B by adding more 10g or 100g masses and again find the new position where the beam balances.
+   - Repeat this process for different masses of B, ensuring that mass A remains fixed in its position.
+
+2. **Ensuring Accurate Results:**
+   - Use a spirit level to ensure the beam is perfectly horizontal when balanced.
+   - Make sure the pivot is at the same mark on the metre rule for each trial for consistency.
+   - Calibrate the metre rule if necessary to ensure accuracy in distance measurement.
+   - Perform each balance measurement several times and take the average to minimize random error.
+
+3. **Values of Mass B:**
+   - Use a range of masses for B, for example, 10g, 20g, 30g, up to a mass that is heavier than A but can be balanced with the metre rule.
+
+4. **Controlling Variables:**
+   - Keep the mass of A constant at 50g.
+   - Ensure the pivot point is not moved during the experiment.
+   - Keep the environment free from drafts or vibrations that might affect the balance.
+
+5. **Measurements:**
+   - The distance from the pivot to mass B for each different mass of B when the beam is balanced.
+   - The mass of B for each trial.
+
+6. **Recording Results:**
+   - Prepare a table with columns for the mass of B, the distance from the pivot to B, and the product of the mass and distance from the pivot (moment of force).
+
+7. **Processing Results:**
+   - Calculate the product of mass and distance from the pivot (moment of force) for both A and B.
+   - Plot a graph with the mass of B on the x-axis and the corresponding distance from the pivot on the y-axis.
+   - Analyze the graph to determine the relationship between the mass of B and its required distance from the pivot for balance.
+
+By following this method, you will be able to deduce how the distance required for balance changes as the mass of B changes, showing the inverse relationship between mass and distance from the pivot in maintaining balance. This is in accordance with the principle of moments, which states that for a system to be in equilibrium, the clockwise moment must equal the anticlockwise moment.
 
 
 
