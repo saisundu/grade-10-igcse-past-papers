@@ -55,6 +55,7 @@ To plan an investigation for measuring the electrical energy required to increas
     - Discuss the implications of your findings in relation to the properties of the liquids.
     - Consider experimental errors and suggest improvements for future investigations.
   
+
 ## May June 2023 Paper 6 - 1
 
 <img width="798" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/12466487-4e33-4d0e-8120-1e2de4b9907c">
@@ -103,6 +104,53 @@ To plan an investigation to find the relationship between the mass of salt added
     - Discuss the observed relationship and its consistency with the expected scientific principles.
     - Consider any anomalies or inconsistencies in your results and explore possible explanations.
     - Suggest improvements for further research and potential applications of your findings.
+
+## May June 2023 Paper 6 - 2
+
+## May June 2023 Paper 6 - 3
+
+## Feb March 2022 Paper 6 - 2
+
+
+## May June 2022 Paper 6 - 1
+
+## May June 2022 Paper 6 - 2
+
+## May June 2022 Paper 6 - 3
+
+
+## Feb March 2021 Paper 6 - 2
+
+
+## May June 2021 Paper 6 - 1
+
+## May June 2021 Paper 6 - 2
+
+## May June 2021 Paper 6 - 3
+
+
+## Oct Nov 2021 Paper 6 - 1
+
+## Oct Nov 2021 Paper 6 - 2
+
+## Oct Nov 2021 Paper 6 - 3
+
+
+## Feb March 2020 Paper 6 - 2
+
+
+## May June 2020 Paper 6 - 1
+
+## May June 2020 Paper 6 - 2
+
+## May June 2020 Paper 6 - 3
+
+
+## Oct Nov 2020 Paper 6 - 1
+
+## Oct Nov 2020 Paper 6 - 2
+
+## Oct Nov 2020 Paper 6 - 3
 
 
 
