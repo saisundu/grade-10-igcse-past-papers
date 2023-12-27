@@ -124,6 +124,12 @@ To plan an investigation to find the relationship between the mass of salt added
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s23_ms_62.pdf)
 
+<img width="1090" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/cc6007d3-dd17-4ca6-99d1-7263d621900c">
+
+<img width="1033" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/e8abaf22-748f-497f-8070-8d58cbdc2126">
+
+
+
 
 ## May June Paper 6 - 3
 
@@ -131,6 +137,12 @@ To plan an investigation to find the relationship between the mass of salt added
 
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s23_ms_63.pdf)
+
+<img width="885" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/55551f39-bec3-426a-be2f-c2c47f325019">
+
+<img width="1526" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/90b28b66-c974-4367-bbb1-79d71fe4b7a3">
+
+
 
 
 
@@ -143,6 +155,12 @@ To plan an investigation to find the relationship between the mass of salt added
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_m22_ms_62.pdf)
 
+<img width="1160" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/0c31b97c-6dec-44b2-8737-abdbf7b20721">
+
+<img width="1191" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/617ae987-070b-409b-b331-90c13744ba27">
+
+
+
 
 
 ## May June Paper 6 - 1
@@ -152,12 +170,24 @@ To plan an investigation to find the relationship between the mass of salt added
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s22_ms_62.pdf)
 
+<img width="851" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/8eb5fc01-6dc9-4f8d-92e4-cab68ecacaa7">
+
+<img width="1524" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/b04ea12e-09f0-4c6e-95e7-40ea558b78b2">
+
+
+
 ## May June Paper 6 - 2
 
 [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s22_qp_62.pdf)
 
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s22_ms_62.pdf)
+
+<img width="840" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/455f0a96-a2bb-4a06-bdf8-2fb73629fb7c">
+
+<img width="1522" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/401eb626-7295-4c29-aefb-ca73a65a1dd3">
+
+
 
 
 ## May June Paper 6 - 3
@@ -167,6 +197,12 @@ To plan an investigation to find the relationship between the mass of salt added
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s22_ms_63.pdf)
 
+<img width="1066" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/8cb22dc9-0281-4a62-9be4-5eaa59431e3b">
+
+<img width="1509" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/b404aaad-6c27-4e43-8a2e-048b28dbbc89">
+
+
+
 
 ## Oct Nov Paper 6 - 1
 
@@ -175,12 +211,24 @@ To plan an investigation to find the relationship between the mass of salt added
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_w22_ms_62.pdf)
 
+<img width="1023" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/0f80433e-7e1e-41a6-8ba3-cdb68a2d039d">
+
+<img width="1515" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/122b740c-569a-4e85-9adf-db91bb763e25">
+
+
+
 ## Oct Nov Paper 6 - 2
 
 [Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_w22_qp_62.pdf)
 
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_w22_ms_62.pdf)
+
+<img width="1540" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/16aa005d-ecfa-4c47-a1fd-5565207c22fc">
+
+<img width="1521" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/1214c5c2-eafb-4496-8b74-30f72e0464e2">
+
+
 
 
 ## Oct Nov Paper 6 - 3
@@ -189,6 +237,12 @@ To plan an investigation to find the relationship between the mass of salt added
 
 
 [Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_w22_ms_63.pdf)
+
+<img width="882" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/70647b1c-8b96-4503-98aa-47dfceec257b">
+
+<img width="1514" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/d97224d4-4b64-4330-b6eb-ae8b5982a476">
+
+
 
 
 
