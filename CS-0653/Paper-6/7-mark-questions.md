@@ -3,6 +3,12 @@
 
 ## Feb March 2023 Paper 6 - 2
 
+[Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_m23_qp_62.pdf)
+
+
+[Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_m23_ms_62.pdf)
+
+
 <img width="783" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/f3eee03b-7f66-4aab-a71b-34da111acbcd">
 
 
@@ -57,6 +63,11 @@ To plan an investigation for measuring the electrical energy required to increas
   
 
 ## May June 2023 Paper 6 - 1
+
+[Question Paper](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s23_qp_61.pdf)
+
+
+[Marks Scheme](https://dynamicpapers.com/wp-content/uploads/2015/09/0653_s23_ms_61.pdf)
 
 <img width="798" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/12466487-4e33-4d0e-8120-1e2de4b9907c">
 <img width="1524" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/06c709c4-140b-4f1c-a599-fd3d46113df7">
