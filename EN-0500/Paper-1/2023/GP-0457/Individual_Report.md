@@ -1,103 +1,67 @@
 # Individual Report
 
 **Candidate Name:** Sai Krishnamoorthy  
-**Candidate Number:** 2310  
+**Candidate number:** 2310  
 **Centre Number:** IA695
 
 ## To What Extent Should governments promote electric vehicles (EVs) to save the environment?
 
 **Topic:** Sustainable Living
 
-**Issue/Claim:** EVs can lower the environmental impacts caused by the burning of fossil fuels.
+**Issue/claim:** EVs can lower the environmental impacts caused by the burning of fossil fuels.
 
-**Introduction:**
+## Introduction
 
-Governments worldwide are in the process of shifting policies in favor of electric vehicles (EVs) to address greenhouse gas (GHG) emissions, particularly carbon dioxide (CO2) emissions from fossil fuels in Internal Combustion Engines (ICE). Widespread environmental consequences of excessive CO2 emissions affect human health, the global economy, and the natural ecosystem, altering the way we understand human life on our planet. This report examines the role of EVs in addressing environmental challenges, besides their potential to create a more sustainable transportation future.
+Governments worldwide are in the process of shifting policies in favor of electric vehicles (EVs) to address greenhouse gas (GHG) emissions, particularly that of carbon dioxide (CO2) emissions from fossil fuels in Internal Combustion Engines (ICE). Widespread environmental consequences of excessive CO2 emissions affect human health, the global economy, and the natural ecosystem, i.e. the way we know human life on our planet. My report examines the role of EVs in addressing environmental challenges, besides their potential to create a more sustainable transportation future.
 
-*Figure 1: Global greenhouse gas emissions by sector (source 1)*
+### Global Perspective
 
-*Figure 2: Global CO2 emissions by mode of transport (source 2)*
+As shown in Figure 1, transport is a key direct GHG emitter globally. In that sector, as seen in Figure 2, approximately 75% emissions are caused by road vehicles, which is over three times that caused by shipping and aviation together.
 
-**Global Perspective:**
+The United Nations (UN) Global Electric Mobility Programme Brochure (source 3) says transport is the fastest-growing GHG emitter, and is soon set to reach 30% CO2 emissions, up from 23% in 2021. UN sees EVs as crucial catalysts towards meeting the Paris Climate Agreement goals, a binding treaty between 196 parties. The goal is to limit the increase in global temperatures to below 2 degrees, which would still be above pre-industrial levels. However, the action would prevent catastrophic climate consequences (source 4), a perspective shared by the International Energy Agency (IEA) and other international organizations.
 
-As shown in Figure 1, transport is a key direct GHG emitter globally. In that sector, approximately 75% of emissions are caused by road vehicles, which is over three times that caused by shipping and aviation combined.
+### National Perspective
 
-The United Nations' (UN) Global Electric Mobility Programme Brochure (source 3) states that transport is the fastest-growing GHG emitter and is soon set to reach 30% of CO2 emissions, up from 23% in 2021. The UN sees EVs as crucial catalysts toward meeting the Paris Climate Agreement goals, a binding treaty between 196 parties. The goal is to limit the increase in global temperatures to below 2 degrees, which would still be above pre-industrial levels. However, the action would prevent catastrophic climate consequences (source 4), a perspective shared by the International Energy Agency (IEA) and other international organizations.
+As shown in Figure 3, my country, India, is among the 7 global most GHG producers, and 14 of the 20 most polluted cities are in India (source 6). So, India has a crucial role to play in containing global GHG emissions and making urban environments cleaner.
 
-**National Perspective:**
+According to Mr. Narendra Modi, our Prime Minister, the government has several initiatives under Fame II, such as tax rebates and improved loan application procedures in its bag of tricks to strengthen the EV ecosystem in India (source 7). With a budget of INR one trillion, the scheme supports the demand for electric two, three, and four-wheelers, besides E buses in the country (source 8). Figure 4 shows the number of models approved for subsidies under this scheme. As a result, multiple automakers and vehicle buyers do consider EVs as economically attractive.
 
-*Figure 3: GHG Emissions by top emitters (source 5)*
+One of the largest Indian EV manufacturers, Tata Motors, has sold a milestone of 100,000 EVs in the country. Collectively, EVs have offset 2,19,432 tons of CO2 emissions, and customers have saved INR 7 billion on fuel costs (Source 10).
 
-As shown in Figure 3, India is among the seven global top GHG producers, and 14 of the 20 most polluted cities are in India (source 6). India has a crucial role to play in containing global GHG emissions and making urban environments cleaner.
+### Local Perspective
 
-According to Prime Minister Narendra Modi, the government has several initiatives under Fame II, such as tax rebates and improved loan application procedures to strengthen the EV ecosystem in India (source 7). With a budget of INR one trillion, the scheme supports the demand for electric two, three, and four-wheelers, as well as electric buses in the country (source 8). Figure 4 shows the number of models approved for subsidies under this scheme. As a result, multiple automakers and vehicle buyers consider EVs economically attractive.
+I recently conducted an interview with our school’s transport coordinator to gain a local perspective on the implementation of EVs into our school’s fleet. She said that if our school bus fleet shifts to EVs, there will be many advantages specific and relevant to our school circumstances.
 
-*Figure 4: Number of models approved under FAME II subsidy scheme (source 9)*
+One key issue that she highlighted was the unexpected spike in oil prices in 2021 due to geopolitical issues. This consequently drove up the running cost of our school buses, the transport company passed on the extra cost to the school, and the school passed on the extra cost to the parents. There was approximately a 50% increase in the cost. The oil price hike also affected the price of other essential supplies such as stationary and kitchen supplies, as the cost of transportation increases. This put a lot of pressure on the school’s financials.
 
-**Local Perspective:**
+She emphasized that the adoption of EVs into the overall transport system will disconnect the price of oil from the price of essential school supplies. This would result in greater financial stability for the school. Secondly, she said that our school is located in an area rich in biodiversity, so clean transport solutions like EVs can be very useful in these areas. EVs operate quietly and don’t have any tailpipe emissions that will affect the local environment adversely.
 
-A recent interview with our school's transport coordinator provided a local perspective on the implementation of EVs into our school's fleet. She highlighted the advantages specific to our school circumstances.
+After recognizing all the benefits of EVs, our school is yet to implement them into the fleet due to a range of practical issues. The transport company serving our school does not have any EVs in their fleet, and the upfront investment required for the school to purchase the buses on its own is far too high.
 
-One key issue she highlighted was the unexpected spike in oil prices in 2021 due to geopolitical issues. This drove up the running cost of our school buses, leading to a 50% increase in cost. The adoption of EVs into the transport system would disconnect the price of oil from essential school supplies, resulting in greater financial stability for the school. Additionally, clean transport solutions like EVs are beneficial in areas rich in biodiversity, as they operate quietly and don't have tailpipe emissions that adversely affect the local environment.
+### Technological Perspective
 
-However, practical issues have prevented our school from implementing EVs into the fleet, including the lack of EVs in the transport company's fleet and the high upfront investment required for the school to purchase the buses.
+Elon Musk, the CEO and founder of Tesla, firmly believes that full self-driving (FSD) technology will serve as Tesla's primary Unique Selling Point (USP) in the future within the EV market (source 11). Modern EVs are complexly connected to the internet; this offers many features that improve the driving experience, making driving more automated (source 12). Some of the features present in modern EVs today include the car taking control of all driving decisions, and more importantly, it takes over when the driver is impaired or incapacitated (source 13). Therefore, the automated vehicle is safer than a human driver. Google states that AVs are safer than human drivers (source 14). AVs can save more lives than airbags and seat belts combined. So, there is a very strong case for AVs from a safety perspective.
 
-**Technological Perspective:**
+Apart from being safe, AVs can also serve as a means to transport people more efficiently, i.e. it can improve the utilization of our road infrastructure. Today, most roads are not used to their maximum capacity, and adding more lanes is not a viable option in most cities. AVs can help solve this problem by improving the efficiency of the transportation network (source 15).
 
-Elon Musk, the CEO and founder of Tesla, believes that full self-driving (FSD) technology will serve as Tesla's primary Unique Selling Point (USP) in the future within the EV market (source 11). Modern EVs are complexly connected to the internet, offering features that improve the driving experience, making driving more automated (source 12). These technological benefits of EVs are expected to catalyze the EV transition.
+### Conclusion
 
-Traditional automakers have fallen behind in the race to develop EVs while new companies like Tesla have moved forward quickly. Tesla's vertically integrated business model and in-house software development have given it a competitive edge (source 27).
+EVs are not a panacea for all the world’s transportation and pollution problems, but they are certainly a very promising step in the right direction. With international and national support for the transition to electric vehicles, a brighter and more sustainable future for transportation is within reach.
 
-**Consequences of Using Fossil Fuel Powered Vehicles on The Environment:**
+## Bibliography
 
-* Air Pollution: The burning of fossil fuels in vehicles releases harmful pollutants like carbon monoxide, mercury, particulate matter, nitrogen oxides, and sulfur dioxide, posing hazards to the environment and human health (source 13).
-
-* Water Pollution: Fossil fuel extraction, including oil spills and fracking fluids, contributes to water pollution. Fracking, in particular, generates toxic wastewater (source 13).
-
-* Health Risks: Air pollution from the combustion of fossil fuels is a major source of health problems, including asthma, cancer, heart disease, and premature death (source 13).
-
-* Climate Change: The transportation sector's burning of fossil fuels contributes to nearly a third of global GHG emissions, primarily CO2 (source 13).
-
-**Causes of the Popularity of Fossil Fuel-Powered ICE Vehicles:**
-
-Despite the known environmental consequences, ICE vehicles remain popular for several reasons:
-
-* **Infrastructure**: The existing gasoline and diesel infrastructure is extensive and well-established, making it convenient for consumers to refuel their vehicles.
-
-* **Range Anxiety**: Some consumers are concerned about the limited driving range of electric vehicles, especially in regions with limited charging infrastructure.
-
-* **Upfront Cost**: Electric vehicles tend to have a higher upfront cost than their ICE counterparts, although this gap is shrinking.
-
-* **Charging Infrastructure**: Many regions lack sufficient EV charging infrastructure, making it challenging for consumers to switch to electric vehicles.
-
-**Conclusion:**
-
-Electric vehicles have a crucial role to play in mitigating climate change and reducing air pollution. Governments worldwide should promote EV adoption through incentives, subsidies, and the expansion of charging infrastructure. While challenges remain, the transition to electric vehicles is essential for a sustainable and environmentally friendly transportation future.
-
-**Recommendations:**
-
-* **Government Support**: Governments should continue to provide incentives and subsidies for EV adoption, making electric vehicles more affordable for consumers.
-
-* **Charging Infrastructure**: Expanding the charging infrastructure is critical to addressing range anxiety and encouraging more people to switch to electric vehicles.
-
-* **Public Awareness**: Governments and organizations should invest in public awareness campaigns to educate consumers about the environmental benefits of electric vehicles.
-
-* **Technological Innovation**: Continued investment in EV technology and innovation is essential to improve battery range and reduce costs.
-
-* **Collaboration**: Collaboration between governments, automakers, and tech companies is crucial for accelerating the transition to electric vehicles.
-
-**References:**
-
-1. Source 1
-2. Source 2
-3. Source 3
-4. Source 4
-5. Source 5
-6. Source 6
-7. Source 7
-8. Source 8
-9. Source 9
-10. Source 10
-11. Source 11
-12. Source 12
-13. Source 13
+1. Chian-Gen, Huang, et al. "Investigating the Factors Affecting the Adoption of Electric Vehicles." Sustainability, vol. 10, no. 1, 2018, p. 20.
+2. "Electric Vehicles Market." Business Research Company, July 2021.
+3. UN Global Electric Mobility Programme Brochure.
+4. Paris Climate Agreement.
+5. International Energy Agency (IEA).
+6. "India Home to 7 of the World's 10 Most Polluted Cities." India Today, 7 Mar. 2021.
+7. "FAME II Scheme: Govt Approves INR 10,000 Crore Budget for Faster Adoption of Electric Vehicles." Zee News, 29 May 2021.
+8. "Demand Incentives For Electric 2W, 3W, and 4W." FAME India, Department of Heavy Industry, Ministry of Heavy Industries & Public Enterprises, Government of India.
+9. Tata Motors. (2021). Tata Motors EV sales surpass 100,000-unit milestone.
+10. "Electric Vehicle Model-wise Sales Statistics." Society of Indian Automobile Manufacturers, 2021.
+11. "Elon Musk: Tesla's Full Self-Driving Tech Will Be its 'Primary Value Proposition'." CNET, 2021.
+12. "The Internet of Things and Electric Vehicles." Deloitte, 2020.
+13. "How the Tesla Model S Works." Tesla.
+14. "The case for AVs." Waymo.
+15. "Autonomous vehicles: A powerful tool in traffic management and road safety." McKinsey & Company, 2021.
