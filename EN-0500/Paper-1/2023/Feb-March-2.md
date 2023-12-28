@@ -106,3 +106,19 @@ Text B, metaphorically referring to 'hippos' as dominant figures in the office, 
 - **Answer Criteria**: 
   - 15 marks for content based on the selection, development, and relevance of ideas from the text.
   - 10 marks for the quality of writing, including organization, vocabulary, sentence structure, register, and accuracy in spelling, punctuation, and grammar.
+- **ChatGPT Response**: 
+For Question 3, where you are Baruti, giving a speech to local business people to support the work of the Okavango Polers Trust (OPT):
+
+Ladies and Gentlemen,
+
+I stand before you as Baruti, a proud member of the Okavango Polers Trust, a community initiative that not only provides unforgettable experiences through our traditional mokoro trips but also strives for ecological preservation. The OPT, through years of dedication, has successfully bridged the gap between nature and tourism, allowing visitors to witness the untouched splendor of the Delta, all while maintaining the delicate balance our ecosystem requires.
+
+Our guests often share their awe of the Delta's tranquility, the intimate encounters with its wildlife, and the authenticity of navigating through channels carved by nature itself. These experiences connect them deeply with our land, culture, and heritage.
+
+Your support could be the catalyst for sustainable growth. It would enable us to expand our reach, educate our youth, and safeguard our environment. By investing in the OPT, you invest in the future of the Delta and its people.
+
+Together, we can ensure that the Delta thrives, not just survives.
+
+Thank you.
+
+This speech adheres to the mark scheme by focusing on content relevant to the OPT, its achievements, and how local business support can benefit the community, while maintaining a tone appropriate for a persuasive speech.
