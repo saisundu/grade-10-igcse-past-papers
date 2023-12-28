@@ -12,7 +12,6 @@
 - **Answer Criteria**: Full explanation (both strands) gets 2 marks; partial explanation gets 1 mark.
 - **Acceptable Answers**: (pure) red / crimson / vermillion, liquid / solution / moisture.
 - **ChatGPT Response**:
-For Question 1(b)(i) of the Cambridge IGCSE First Language English Paper 1, based on Text B of the insert "Into the Delta," a sample response to explain in your own words what the text means by 'scarlet fluid' could be:
 
 In the context provided, 'scarlet fluid' likely refers to a bright red liquid, which might symbolize something vivid and possibly startling within the natural setting described. The color scarlet traditionally connotes intensity or even urgency, which could be indicative of the vibrant life or the stark realities of the Delta.
    
@@ -22,7 +21,6 @@ In the context provided, 'scarlet fluid' likely refers to a bright red liquid, w
 - **Answer Criteria**: Full explanation (both strands) gets 2 marks; partial explanation gets 1 mark.
 - **Acceptable Answers**: round(ed) / plump / chubby / portly / fat, animals / beasts / mammals.
 - **ChatGPT Response**:
-  For Question 1(b)(ii) based on Text B from the provided insert, a sample response to explain in your own words what the text means by 'rotund creatures' could be:
 
 The term 'rotund creatures' is likely used to describe animals that have a round or plump shape. This description emphasizes their physical appearance, suggesting that these animals have a significant, noticeable girth.
 
@@ -31,7 +29,6 @@ The term 'rotund creatures' is likely used to describe animals that have a round
 - **Answer Criteria**: 1 mark for each correct behavior, maximum 2 marks.
 - **Acceptable Answers**: Fast running speeds (over 30 km/h), observed eating meat.
 - **ChatGPT Response**:  
-For Question 1(c) based on Text B from the insert "Into the Delta," a sample response to identify two behaviors of hippos that have surprised scientists could be:
 
 Scientists were surprised to discover that hippos can run at speeds exceeding 30 km/h, which is quite fast for their size. Additionally, contrary to their herbivorous classification, hippos have been observed engaging in the unusual behavior of eating meat.
 
@@ -40,8 +37,7 @@ Scientists were surprised to discover that hippos can run at speeds exceeding 30
 - **Answer Criteria**: 1 mark for each correct reason, maximum 2 marks.
 - **Acceptable Answers**: Large size/weight (3200 kg), brutal battles over mates/slashing and biting, large incisor teeth (up to 40 cm long).
 - **ChatGPT Response**:
- For Question 1(d)(i) based on Text B from "Into the Delta," a sample response to give two reasons why people think male hippos are aggressive could be:
-
+  
 People often perceive male hippos as aggressive due to their size, as they can weigh up to 3200 kg, and their behavior during confrontations, such as fierce battles over mates, which can involve intense biting and the use of their large incisor teeth.
 
 #### 1(d)(ii)
@@ -49,7 +45,6 @@ People often perceive male hippos as aggressive due to their size, as they can w
 - **Answer Criteria**: 1 mark for each correct idea, maximum 3 marks.
 - **Acceptable Answers**: Nutrient scarcity leading to scavenging, human encroachment on land, competition for food/fresh water, territorial disputes.
 - **ChatGPT Response**:
-For Question 1(d)(ii) based on Text B from "Into the Delta," a sample response to explain why, according to some experts, hippos may have changed their behavior could be:
 
 Some experts believe that hippos may have changed their behavior due to environmental pressures such as habitat loss and reduced access to fresh water, which leads them to adapt in ways such as showing increased aggression or seeking out new food sources.
 
@@ -58,7 +53,6 @@ Some experts believe that hippos may have changed their behavior due to environm
 - **Answer Criteria**: 1 mark for each idea predominantly in own words, maximum 3 marks.
 - **Acceptable Answers**: Hippos likely always ate meat unnoticed, other herbivores known to eat meat, hippos are equipped to eat meat.
 - **ChatGPT Response**:
-For Question 1(e) based on Text B from "Into the Delta," a sample response explaining why some scientists do not believe that the behavior of hippos has changed could be:
 
 Some scientists argue that hippos' behavior hasn't fundamentally changed, suggesting that the observed instances of meat-eating might have always been a part of their behavior but went unnoticed. They point out that hippos possess physical attributes enabling them to consume meat, and similar herbivorous species have also been known to occasionally eat meat.
 
@@ -69,8 +63,7 @@ Some scientists argue that hippos' behavior hasn't fundamentally changed, sugges
 - **Question**: Summarize the problems caused by 'hippos' and how they should be tackled.
 - **Answer Criteria**: Up to 10 marks for content and up to 5 marks for quality of writing, maximum 15 marks.
 - **Acceptable Answers**: Problems include dominance in meetings, pushing bad ideas, ignoring data, demotivating staff, affecting company culture. Solutions involve blind review processes, leader education, meaningful dialogue, and better listening skills.
-#### ChatGPT Response
-**Sample Response:**
+- **ChatGPT Response**:
 
 Text B, metaphorically referring to 'hippos' as dominant figures in the office, highlights various workplace challenges. Problems include these individuals' tendency to overpower discussions, leading to unproductive decision-making and demoralizing other team members. The text also points out the negative impact on creativity and innovation when such figures dominate. To address these issues, the text suggests implementing anonymous idea-sharing platforms to ensure equitable contribution and promoting a culture that values diverse opinions. Additionally, educating leaders on the benefits of inclusive decision-making can foster a more collaborative and positive work environment.
 
@@ -88,14 +81,12 @@ Text B, metaphorically referring to 'hippos' as dominant figures in the office, 
   - 2(a)(iii): A term for 'a broader range' gains 1 mark.
   - 2(a)(iv): Phrase suggesting 'vehemently denied' receives 1 mark.
  - **ChatGPT Response**:   
-For Question 2(a), given the context of Text C, "Into the Delta," here are the responses based on the underlined phrases:
 
 - **2(a)(i):** "After a quick briefing" suggests that Susan attended a short meeting to receive information before getting into the boat.
 - **2(a)(ii):** "Expertly crafted from the trunk of an ebony tree" indicates that a wooden mokoro is skillfully made by carving out a mature tree.
 - **2(a)(iii):** "They'd need to demonstrate they had the skills to cater for the broader range of tourists" suggests that to pass their licensing examinations, polers would need to show that they were able to meet the needs of a wider variety of visitors.
 - **2(a)(iv):** "Sometimes a male hippo decided that he didn't want commuters using 'his' channel, rising unexpectedly out of the water" aligns with one poler passionately and forcefully argued against the suggestion in the book.
 
-These responses should align with the required task of identifying words or phrases from Text C that convey similar meanings to the underlined words in the question.
 
 #### 2(b)
 - **Question**: Using your own words, explain what the writer means by underlined words.
@@ -104,7 +95,6 @@ These responses should align with the required task of identifying words or phra
   - 2(b)(ii): Meaning of 'lucrative' earns 1 mark.
   - 2(b)(iii): Interpretation of 'convert' receives 1 mark.
 - **ChatGPT Response**:
-  For Question 2(b) based on the provided text from Text C, "Into the Delta," the responses using my own words would be:
 
 - **2(b)(i) preserve:** To maintain the natural balance of the delta and ensure fishing remains regulated for ecological sustainability.
 - **2(b)(ii) lucrative:** More profitable and financially beneficial, especially compared to the tightly regulated fishing.
@@ -116,6 +106,7 @@ These explanations interpret the underlined words in the context of the text, re
 - **Question**: Explain how the writer suggests Susan’s attitude towards hippos.
 - **Answers and Marks**: Up to 3 marks for an appropriate example with a comprehensive explanation showing understanding of Susan's attitude.
 - **ChatGPT Response**:
+  
 For Question 2(c), using the text provided in "Into the Delta," an example that shows Susan's attitude towards hippos is when she describes their method of creating paths in the water. Susan's narration of the hippos' behavior, where they sometimes aggressively block channels, displays a respectful wariness. She acknowledges the hippos' dominance in their environment and the need for the polers to be cautious and adaptive, which reflects a recognition of the animals' power and the importance of coexistence.
 
 #### 2(d)
@@ -123,7 +114,6 @@ For Question 2(c), using the text provided in "Into the Delta," an example that 
 - **Answers and Marks**: Up to 15 marks for content based on the explanation of words or phrases and their effects, including imagery.
 
 - **ChatGPT Response**:
-For Question 2(d), the task is to explain how the writer uses language to convey meaning and create effect in paragraphs 4 and 5 of "Into the Delta." Here's a sample response:
 
 In paragraph 4, the author creates a serene and almost surreal atmosphere through phrases like "utter tranquility" and "snapshot memory," which convey a sense of peace and a moment captured in time. The imagery of "swishing through the water lilies" evokes a gentle, fluid motion, enhancing the tranquil mood. In contrast, paragraph 5 introduces an element of suspense and anticipation with "Hippo calls carried late across the still waters," where the auditory imagery sets a scene of cautious excitement. The phrase "skilfully manoeuvred our fleet to the very edge of their pool" suggests precision and careful action, heightening the tension as the group approaches the hippos. The language used in both paragraphs effectively contrasts the calmness of the morning journey with the charged atmosphere of the hippo safari later in the day.
 
@@ -140,7 +130,6 @@ In paragraph 4, the author creates a serene and almost surreal atmosphere throug
   - 15 marks for content based on the selection, development, and relevance of ideas from the text.
   - 10 marks for the quality of writing, including organization, vocabulary, sentence structure, register, and accuracy in spelling, punctuation, and grammar.
 - **ChatGPT Response**: 
-For Question 3, where you are Baruti, giving a speech to local business people to support the work of the Okavango Polers Trust (OPT):
 
 Ladies and Gentlemen,
 
