@@ -1,4 +1,6 @@
 ### Question 1: Reading Assessment (Total Marks: 30)
+<img width="686" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/5406bef7-cdc6-462d-9aca-0121a7dd2bed">
+
 
 #### 1(a)
 - **Question**: What was the Ancient Greek name for hippos?
@@ -61,6 +63,9 @@ Since the documents are extensive, I will start by providing a markdown for the 
 - **Answer Criteria**: 1 mark for each idea predominantly in own words, maximum 3 marks.
 - **Acceptable Answers**: Hippos likely always ate meat unnoticed, other herbivores known to eat meat, hippos are equipped to eat meat.
 
+<img width="694" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/2eedc345-c675-4dd2-9968-89fd9c6f5b91">
+
+
 #### 1(f)
 - **Question**: Summarize the problems caused by 'hippos' and how they should be tackled.
 - **Answer Criteria**: Up to 10 marks for content and up to 5 marks for quality of writing, maximum 15 marks.
@@ -68,6 +73,9 @@ Since the documents are extensive, I will start by providing a markdown for the 
 
 
 ### Question 2: Reading Assessment (Total Marks: 25)
+<img width="561" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/2404d182-f5b9-4984-a1c0-4cd5647f9559">
+
+<img width="567" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/51920add-87ef-4719-993f-091d38f407d5">
 
 #### 2(a)
 - **Question**: Identify words or phrases from the text that suggest similar ideas as the underlined words in given statements.
