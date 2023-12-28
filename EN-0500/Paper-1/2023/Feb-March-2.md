@@ -11,48 +11,56 @@
 - **Question**: Explain in your own words what the text means by: ‘scarlet fluid’ (line 4).
 - **Answer Criteria**: Full explanation (both strands) gets 2 marks; partial explanation gets 1 mark.
 - **Acceptable Answers**: (pure) red / crimson / vermillion, liquid / solution / moisture.
+- **ChatGPT Response**:
+For Question 1(b)(i) of the Cambridge IGCSE First Language English Paper 1, based on Text B of the insert "Into the Delta," a sample response to explain in your own words what the text means by 'scarlet fluid' could be:
+
+In the context provided, 'scarlet fluid' likely refers to a bright red liquid, which might symbolize something vivid and possibly startling within the natural setting described. The color scarlet traditionally connotes intensity or even urgency, which could be indicative of the vibrant life or the stark realities of the Delta.
+   
 
 #### 1(b)(ii)
 - **Question**: Explain in your own words what the text means by: ‘rotund creatures’ (line 5).
 - **Answer Criteria**: Full explanation (both strands) gets 2 marks; partial explanation gets 1 mark.
 - **Acceptable Answers**: round(ed) / plump / chubby / portly / fat, animals / beasts / mammals.
+- **ChatGPT Response**:
+  For Question 1(b)(ii) based on Text B from the provided insert, a sample response to explain in your own words what the text means by 'rotund creatures' could be:
 
-### Question 1: Reading Assessment (Total Marks: 30)
-
-#### 1(a)
-- **Question**: What was the Ancient Greek name for hippos?
-- **Answer**: hippopotamus(es) / river horse(s)
-- **Marks**: 1
-
-#### 1(b)(i)
-- **Question**: Explain in your own words what the text means by: ‘scarlet fluid’ (line 4).
-- **Answer Criteria**: Full explanation (both strands) gets 2 marks; partial explanation gets 1 mark.
-- **Acceptable Answers**: (pure) red / crimson / vermillion, liquid / solution / moisture.
-
-#### 1(b)(ii)
-- **Question**: Explain in your own words what the text means by: ‘rotund creatures’ (line 5).
-- **Answer Criteria**: Full explanation (both strands) gets 2 marks; partial explanation gets 1 mark.
-- **Acceptable Answers**: round(ed) / plump / chubby / portly / fat, animals / beasts / mammals.
+The term 'rotund creatures' is likely used to describe animals that have a round or plump shape. This description emphasizes their physical appearance, suggesting that these animals have a significant, noticeable girth.
 
 #### 1(c)
 - **Question**: Identify two hippo behaviors that have surprised scientists.
 - **Answer Criteria**: 1 mark for each correct behavior, maximum 2 marks.
 - **Acceptable Answers**: Fast running speeds (over 30 km/h), observed eating meat.
+- **ChatGPT Response**:  
+For Question 1(c) based on Text B from the insert "Into the Delta," a sample response to identify two behaviors of hippos that have surprised scientists could be:
+
+Scientists were surprised to discover that hippos can run at speeds exceeding 30 km/h, which is quite fast for their size. Additionally, contrary to their herbivorous classification, hippos have been observed engaging in the unusual behavior of eating meat.
 
 #### 1(d)(i)
 - **Question**: Give two reasons why people think male hippos are aggressive.
 - **Answer Criteria**: 1 mark for each correct reason, maximum 2 marks.
 - **Acceptable Answers**: Large size/weight (3200 kg), brutal battles over mates/slashing and biting, large incisor teeth (up to 40 cm long).
+- **ChatGPT Response**:
+ For Question 1(d)(i) based on Text B from "Into the Delta," a sample response to give two reasons why people think male hippos are aggressive could be:
+
+People often perceive male hippos as aggressive due to their size, as they can weigh up to 3200 kg, and their behavior during confrontations, such as fierce battles over mates, which can involve intense biting and the use of their large incisor teeth.
 
 #### 1(d)(ii)
 - **Question**: Explain why, according to some experts, hippos may have changed their behavior.
 - **Answer Criteria**: 1 mark for each correct idea, maximum 3 marks.
 - **Acceptable Answers**: Nutrient scarcity leading to scavenging, human encroachment on land, competition for food/fresh water, territorial disputes.
+- **ChatGPT Response**:
+For Question 1(d)(ii) based on Text B from "Into the Delta," a sample response to explain why, according to some experts, hippos may have changed their behavior could be:
+
+Some experts believe that hippos may have changed their behavior due to environmental pressures such as habitat loss and reduced access to fresh water, which leads them to adapt in ways such as showing increased aggression or seeking out new food sources.
 
 #### 1(e)
 - **Question**: Explain why some scientists do not believe that the behavior of hippos has changed.
 - **Answer Criteria**: 1 mark for each idea predominantly in own words, maximum 3 marks.
 - **Acceptable Answers**: Hippos likely always ate meat unnoticed, other herbivores known to eat meat, hippos are equipped to eat meat.
+- **ChatGPT Response**:
+For Question 1(e) based on Text B from "Into the Delta," a sample response explaining why some scientists do not believe that the behavior of hippos has changed could be:
+
+Some scientists argue that hippos' behavior hasn't fundamentally changed, suggesting that the observed instances of meat-eating might have always been a part of their behavior but went unnoticed. They point out that hippos possess physical attributes enabling them to consume meat, and similar herbivorous species have also been known to occasionally eat meat.
 
 <img width="694" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/2eedc345-c675-4dd2-9968-89fd9c6f5b91">
 
