@@ -79,6 +79,15 @@ Text B, metaphorically referring to 'hippos' as dominant figures in the office, 
   - 2(a)(ii): A phrase that indicates 'expertly crafted' earns 1 mark.
   - 2(a)(iii): A term for 'a broader range' gains 1 mark.
   - 2(a)(iv): Phrase suggesting 'vehemently denied' receives 1 mark.
+ - **ChatGPT Response**:   
+For Question 2(a), given the context of Text C, "Into the Delta," here are the responses based on the underlined phrases:
+
+- **2(a)(i):** "After a quick briefing" suggests that Susan attended a short meeting to receive information before getting into the boat.
+- **2(a)(ii):** "Expertly crafted from the trunk of an ebony tree" indicates that a wooden mokoro is skillfully made by carving out a mature tree.
+- **2(a)(iii):** "They'd need to demonstrate they had the skills to cater for the broader range of tourists" suggests that to pass their licensing examinations, polers would need to show that they were able to meet the needs of a wider variety of visitors.
+- **2(a)(iv):** "Sometimes a male hippo decided that he didn't want commuters using 'his' channel, rising unexpectedly out of the water" aligns with one poler passionately and forcefully argued against the suggestion in the book.
+
+These responses should align with the required task of identifying words or phrases from Text C that convey similar meanings to the underlined words in the question.
 
 #### 2(b)
 - **Question**: Using your own words, explain what the writer means by underlined words.
@@ -86,14 +95,30 @@ Text B, metaphorically referring to 'hippos' as dominant figures in the office, 
   - 2(b)(i): Explanation for 'preserve' gets 1 mark.
   - 2(b)(ii): Meaning of 'lucrative' earns 1 mark.
   - 2(b)(iii): Interpretation of 'convert' receives 1 mark.
+- **ChatGPT Response**:
+  For Question 2(b) based on the provided text from Text C, "Into the Delta," the responses using my own words would be:
+
+- **2(b)(i) preserve:** To maintain the natural balance of the delta and ensure fishing remains regulated for ecological sustainability.
+- **2(b)(ii) lucrative:** More profitable and financially beneficial, especially compared to the tightly regulated fishing.
+- **2(b)(iii) convert:** To change or adapt something into a different form, in this context, the polers might shift from using traditional wooden boats to more modern fiberglass canoes as it becomes more financially viable.
+
+These explanations interpret the underlined words in the context of the text, rephrasing the ideas in my own words.
 
 #### 2(c)
 - **Question**: Explain how the writer suggests Susan’s attitude towards hippos.
 - **Answers and Marks**: Up to 3 marks for an appropriate example with a comprehensive explanation showing understanding of Susan's attitude.
+- **ChatGPT Response**:
+For Question 2(c), using the text provided in "Into the Delta," an example that shows Susan's attitude towards hippos is when she describes their method of creating paths in the water. Susan's narration of the hippos' behavior, where they sometimes aggressively block channels, displays a respectful wariness. She acknowledges the hippos' dominance in their environment and the need for the polers to be cautious and adaptive, which reflects a recognition of the animals' power and the importance of coexistence.
 
 #### 2(d)
 - **Question**: Explain how the writer uses language to convey meaning and create effect in selected paragraphs.
 - **Answers and Marks**: Up to 15 marks for content based on the explanation of words or phrases and their effects, including imagery.
+
+- **ChatGPT Response**:
+For Question 2(d), the task is to explain how the writer uses language to convey meaning and create effect in paragraphs 4 and 5 of "Into the Delta." Here's a sample response:
+
+In paragraph 4, the author creates a serene and almost surreal atmosphere through phrases like "utter tranquility" and "snapshot memory," which convey a sense of peace and a moment captured in time. The imagery of "swishing through the water lilies" evokes a gentle, fluid motion, enhancing the tranquil mood. In contrast, paragraph 5 introduces an element of suspense and anticipation with "Hippo calls carried late across the still waters," where the auditory imagery sets a scene of cautious excitement. The phrase "skilfully manoeuvred our fleet to the very edge of their pool" suggests precision and careful action, heightening the tension as the group approaches the hippos. The language used in both paragraphs effectively contrasts the calmness of the morning journey with the charged atmosphere of the hippo safari later in the day.
+
 
 ### Question 3: Writing Assessment (Total Marks: 25)
 
