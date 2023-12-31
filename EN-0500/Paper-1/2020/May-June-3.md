@@ -74,6 +74,33 @@ This response effectively addresses the key concerns, maintaining focus and offe
 <img width="514" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/02309e26-3a53-439b-8162-317551c41d6d">
 <img width="543" alt="image" src="https://github.com/saisundu/grade-10-igcse-past-papers/assets/3304197/9cd4caf2-d1e6-4a06-b80b-dbc6bbb2cd46">
 
+For Question 2 of the Cambridge IGCSE First Language English exam (May/June 2020, Paper 1), focusing on Text C, here's a consolidation of the complete questions, marks scheme, and proposed responses for parts (a) to (d):
+
+1. Question 2 (a) - (d)【119†source】:
+   - (a) Identify a word or phrase from the text suggesting the same idea as the words underlined. [1 mark each for i-iv]
+   - (b) Using your own words, explain what the writer means by each of the words underlined. [1 mark each for i-iii]
+   - (c) Use one example from the text to explain how the writer suggests Lois’ feelings while at work, in your own words. [3 marks]
+   - (d) Explain how the writer uses language to convey meaning and create effect in paragraphs 10 and 16. Choose three examples of words or phrases from each paragraph to support your answer, including the use of imagery. Write about 200 to 300 words. [Up to 15 marks]
+
+2. Mark Scheme for Question 2 (a) - (d)【123†source】【125†source】【127†source】【129†source】:
+   - (a) 
+     - (i) "cavernous construction" suggests "a huge building."
+     - (ii) "towering" suggests "extremely tall."
+     - (iii) "stifled (human) creativity" suggests "stopped people being inventive."
+     - (iv) "(wave a) wide eager greeting" suggests "an enthusiastic welcome."
+   - (b)
+     - (i) "almost exclusively" means "nearly all."
+     - (ii) "cold-eyed" means "without emotion showing no reaction."
+     - (iii) "identical" means "(exactly) the same without difference."
+   - (c) Example and explanation: "staring blankly" suggests "not thinking, losing creativity, lacking emotion." Other possible references include "braids of fibre channel," "knot in my stomach," and "turbine spinning," each indicating different aspects of Lois' emotional and physical state at work.
+   - (d) Overview of language use in paragraphs 10 and 16, including examples like "dark confident script," "intrigued me," "fluorescent red," and "rippling burp," each carrying specific connotations and imagery.
+
+3. Proposed Response for Question 2(d):
+   - "In paragraph 10, the writer uses vivid imagery to describe Lois’ reaction to the menu. The 'dark confident script' suggests a hint of mystery and reliability, drawing Lois in. The phrase 'intrigued me' indicates her fascination and temptation. The 'exuberant letters' are described as 'loud' and 'colourful,' showing enthusiasm. 'Curling connectors' liken the strokes of writing to natural tendrils, indicating a connection and charm. Finally, 'my life bent off on a different track' suggests a significant change in her future.
+   - In paragraph 16, describing her reaction to the Combo, 'consumed' conveys her complete and eager engagement, indicating hunger or incredible taste. 'Healing powers' elevates the experience to a spiritual level. 'Like dishwater' contrasts this by suggesting something unappealing. 'Slathered' and 'fluorescent red' evoke a vivid and intense visual, and 'unclenched' suggests a physical relaxation. The 'rippling burp' is a joyful, natural reaction, showing her contentment."
+
+This consolidation provides a comprehensive overview of the expectations for each part of Question 2, along with guidelines for forming high-quality responses.
+
 
 
 
